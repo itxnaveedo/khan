@@ -1,5 +1,4 @@
-�
-E^`c@s�ddlZddlZddlZddlZddlZddlZddlZddlZddlZddl	Z	ddl
+E^`c@s�ddlZddlZddlZddlZddlZddlZddlZddlZddlZddl	Z	ddl
 Z
 ddlZddlZddl
 mZddlmZy�ddlZddlZddlZddlZddlZddlZddlZddlZddlZddlZddl	Z	ddl
@@ -26,12 +25,11 @@ Khanjan.pytjalanFs
 s>
 
 [1;97m  
-         ███╗   ██╗ █████╗ ██╗   ██╗███████╗███████╗██████╗  ██████╗ 
-████╗  ██║██╔══██╗██║   ██║██╔════╝██╔════╝██╔══██╗██╔═══██╗
-██╔██╗ ██║███████║██║   ██║█████╗  █████╗  ██║  ██║██║   ██║
-██║╚██╗██║██╔══██║╚██╗ ██╔╝██╔══╝  ██╔══╝  ██║  ██║██║   ██║
-██║ ╚████║██║  ██║ ╚████╔╝ ███████╗███████╗██████╔╝╚██████╔╝
-╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝╚═════╝  ╚═════╝ 
+  _  _                     _ 
+ | \| |__ ___ _____ ___ __| |
+ | .` / _` \ V / -_) -_) _` |
+ |_|\_\__,_|\_/\___\___\__,_|
+                             
                                                                                
  DONT COPY ME YOU DONT HAVE LEVEL TO COMPETE ME cCsFdddg}x0|D](}d|Gtjj�tjd�qWdS(Ns.   s..  s... s'
 [1;97m[+] [1;97mSedang Login [1;97mi(RRRRR(ttitikto((s
